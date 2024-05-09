@@ -6,7 +6,7 @@ import 'package:movie_list/services/models/response/movie_response_model.dart';
 import 'package:movie_list/services/models/response/movie_video_response_model.dart';
 import 'package:retrofit/retrofit.dart';
 
-part './movie_service.g.dart';
+part 'movie_service.g.dart';
 
 @RestApi()
 abstract class MovieService {

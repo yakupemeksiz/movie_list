@@ -1,0 +1,71 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/sI6uCeF8mUlZx22mFfHSi9W3XQ9.jpg",
+      "genre_ids": [10749, 35],
+      "id": 843527,
+      "original_language": "en",
+      "original_title": "The Idea of You",
+      "overview": "40-year-old single mom Solène begins an unexpected romance with 24-year-old Hayes Campbell, the lead singer of August Moon, the hottest boy band on the planet.",
+      "popularity": 1560.707,
+      "poster_path": "/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg",
+      "release_date": "2024-05-02",
+      "title": "The Idea of You",
+      "video": false,
+      "vote_average": 7.584,
+      "vote_count": 467
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qrGtVFxaD8c7et0jUtaYhyTzzPg.jpg",
+      "genre_ids": [28, 878, 12],
+      "id": 823464,
+      "original_language": "en",
+      "original_title": "Godzilla x Kong: The New Empire",
+      "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+      "popularity": 1369.726,
+      "poster_path": "/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg",
+      "release_date": "2024-03-27",
+      "title": "Godzilla x Kong: The New Empire",
+      "video": false,
+      "vote_average": 6.449,
+      "vote_count": 995
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sI6uCeF8mUlZx22mFfHSi9W3XQ9.jpg",
+      "genre_ids": [10749, 35],
+      "id": 843527,
+      "original_language": "en",
+      "original_title": "The Idea of You",
+      "overview": "40-year-old single mom Solène begins an unexpected romance with 24-year-old Hayes Campbell, the lead singer of August Moon, the hottest boy band on the planet.",
+      "popularity": 1560.707,
+      "poster_path": "/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg",
+      "release_date": "2024-05-02",
+      "title": "The Idea of You",
+      "video": false,
+      "vote_average": 7.584,
+      "vote_count": 467
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qrGtVFxaD8c7et0jUtaYhyTzzPg.jpg",
+      "genre_ids": null,
+      "id": 823464,
+      "original_language": "en",
+      "original_title": "Godzilla x Kong: The New Empire",
+      "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+      "popularity": 1369.726,
+      "poster_path": "/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg",
+      "release_date": "2024-03-27",
+      "title": "Godzilla x Kong: The New Empire",
+      "video": false,
+      "vote_average": 6.449,
+      "vote_count": 995
+    }
+  ],
+  "total_pages": 44069,
+  "total_results": 881374
+}
