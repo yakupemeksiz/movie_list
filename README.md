@@ -1,10 +1,10 @@
-# movie_list
+# Popular Movie App
 
-A new Flutter project.
+[![CI][passing_badge]][passing_link] [![License: MIT][license_badge]][license_link]
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Getting Started 🚀
 
 In order to run the project, you first need to get an API_KEY from [The Movie Database (TMDB) API](https://developer.themoviedb.org/reference/intro/getting-started). After getting the API_KEY, you need to add the following line in the .env file in the root directory:
 
