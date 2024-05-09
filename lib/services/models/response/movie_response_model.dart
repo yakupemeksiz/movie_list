@@ -14,11 +14,9 @@ final class MovieResponseModel {
   factory MovieResponseModel.fromJson(Map<String, dynamic> json) =>
       MovieResponseModel(
         page: json['page'],
-        results: json['results'] == null
-            ? []
-            : List<MovieListItemModel>.from(
-                json['results']!.map((x) => MovieListItemModel.fromJson(x)),
-              ),
+        results: List<MovieListItemModel>.from(
+          json['results']!.map((x) => MovieListItemModel.fromJson(x)),
+        ),
         totalPages: json['total_pages'],
         totalResults: json['total_results'],
       );
