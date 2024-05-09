@@ -6,13 +6,13 @@
 
 ## Getting Started 🚀
 
-In order to run the project, you first need to get an authorization token from [The Movie Database (TMDB) API](https://developer.themoviedb.org/reference/intro/getting-started). After getting the token, you need to add the following line in the .env file in the root directory:
+In order to run the project, you first need to get an API_KEY from [The Movie Database (TMDB) API](https://developer.themoviedb.org/reference/intro/getting-started). After getting the API_KEY, you need to add the following line in the .env file in the root directory:
 
 ```sh
-Authorization = Bearer <your token>
+API_KEY = "YOUR_API_KEY"
 ```
 
-After adding the token, you can run the project with the following command:
+After adding the API_KEY, you can run the project with the following command:
 
 ```sh
 flutter run
