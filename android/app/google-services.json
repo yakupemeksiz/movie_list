@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982811968296",
+    "project_id": "colendilabs-movie-list",
+    "storage_bucket": "colendilabs-movie-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982811968296:android:2d06c4f8f1e291e1d8461d",
+        "android_client_info": {
+          "package_name": "com.example.movie_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzks9_cX201D6bKzBmhbGBGWgORbCDfMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+name: movie_list
+description: 'A new Flutter project.'
+version: 1.0.0+1
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  auto_route: ^8.1.3
+  cupertino_icons: ^1.0.6
+  dio: ^5.4.3+1
+  retrofit: ^4.1.0
+  provider: ^6.1.2
+  injectable: ^2.4.1
+  get_it: ^7.7.0
+  either_dart: ^1.0.0
+  fancy_dio_inspector: ^1.7.0
+  flutter_screenutil: ^5.9.0
+  gap: ^3.0.1
+  cached_network_image: ^3.3.1
+  infinite_scroll_pagination: ^4.0.0
+  youtube_player_flutter: ^9.0.1
+  intl: ^0.18.1
+  firebase_core: ^2.31.0
+  firebase_remote_config: ^4.4.5
+  firebase_analytics: ^10.10.5
+  flutter_dotenv: ^5.1.0
+
+dev_dependencies:
+  auto_route_generator: ^8.0.0
+  build_runner: ^2.4.9
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.4.4
+  retrofit_generator: ^8.1.0
+  very_good_analysis: ^5.1.0
+  injectable_generator: ^2.4.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - .env
