@@ -11,11 +11,11 @@ mixin DioClient {
   static final BaseOptions _baseOptions = BaseOptions(
     queryParameters: {
       'language': Platform.localeName.split('_').join('-'),
+      'api_key': EnvironmentConstants.apiKey,
     },
     baseUrl: AppConstants.baseUrl,
     headers: {
       HttpHeaders.acceptHeader: 'application/json',
-      'Authorization': EnvironmentConstants.authorization,
     },
   );
 
