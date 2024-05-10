@@ -63,13 +63,9 @@ final class _DetailBodyWidget extends StatelessWidget {
             ),
           ],
         ),
-        const Gap(16),
+        Gap(16.h),
         Text(
-          (detailModel.overview ?? '') * 3,
-          style: Theme.of(context).textTheme.bodyLarge,
-        ),
-        Text(
-          (detailModel.overview ?? '') * 3,
+          detailModel.overview ?? '',
           style: Theme.of(context).textTheme.bodyLarge,
         ),
       ],
