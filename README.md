@@ -45,7 +45,6 @@ _\*This project is tested on iOS and Android._
 - [mockito](https://pub.dev/packages/mockito) for mocking.
 - [either_dart](https://pub.dev/packages/either_dart) for error handling.
 - [flutter_screenutil](https://pub.dev/packages/flutter_screenutil) for responsive UI.
-- [hive_flutter](https://pub.dev/packages/hive_flutter) for local storage.
 - [auto_route](https://pub.dev/packages/auto_route) for navigation.
 
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
