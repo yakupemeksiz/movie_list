@@ -9,7 +9,7 @@
 In order to run the project, you first need to get an API_KEY from [The Movie Database (TMDB) API](https://developer.themoviedb.org/reference/intro/getting-started). After getting the API_KEY, you need to add the following line in the .env file in the root directory:
 
 ```sh
-API_KEY = "YOUR_API_KEY"
+API_KEY = <YOUR_API_KEY>
 ```
 
 After adding the API_KEY, you can run the project with the following command:
