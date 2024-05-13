@@ -38,8 +38,7 @@ _\*This project is tested on iOS and Android._
 ## Used Packages
 
 - [dio](https://pub.dev/packages/dio) and [retrofit](https://pub.dev/packages/retrofit) for network calls.
-- [fancy_dio_inspector](https://pub.dev/packages/fancy_dio_inspector) for network call inspection _(It's written by [me](https://github.com/yakupemeksiz) and [Gökhan Çavuş](https://github.com/gokhancvs))_.
-
+- [fancy_dio_inspector](https://pub.dev/packages/fancy_dio_inspector) for network call inspection _(It's written by [me](https://github.com/yakupemeksiz) and [Gökhan Çavuş](https://github.com/gokhancvs)).
 - [provider](https://pub.dev/packages/provider) for state management.
 - [get_it](https://pub.dev/packages/get_it) and [injectable](https://pub.dev/packages/injectable) for dependency injection.
 - [mockito](https://pub.dev/packages/mockito) for mocking.
